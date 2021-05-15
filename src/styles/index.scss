@@ -16,6 +16,8 @@
     margin-top: 25px;
     margin-left: 25px;
     border-radius: 50px;
+    border: 0;
+    
     
 }
 .yellowLight {
@@ -25,6 +27,10 @@
     margin: auto;
     margin-top: 25px;
     border-radius: 50px;
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left: 25px;
+    border: 0;
 }
 .greenLight {
     width: 100px;
@@ -33,6 +39,10 @@
     margin: auto;
     margin-top: 25px;
     border-radius: 50px;
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left: 25px;
+    border: 0;
 }
 .iluminated {
     width: 100px;
@@ -41,4 +51,7 @@
     margin: auto;
     margin-top: 25px;
     border-radius: 50px;
+    display: inline-flex;
+    margin-left: 25px;
+    border: 0;
 }
